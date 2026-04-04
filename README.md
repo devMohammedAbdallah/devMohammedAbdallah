@@ -1,5 +1,6 @@
 ## Hey 👋, I'm Mohammed Abdallah
 
+<a href='YOUR_GITHUB'><img align='left' alt="github" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/github.svg" height='18px'/></a>
 <a href='https://www.instagram.com/thm7mad_/'><img align='left' alt="instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height='18px'/></a>
 
 <br/>
@@ -21,6 +22,27 @@ I work on educational and commercial projects.
 
 <br>
 
+### Tech Stack
+
+<a href="https://flutter.dev" target="_blank">
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="42px"/>
+</a>
+
+<a href="https://dart.dev" target="_blank">
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" height="42px"/>
+</a>
+
+<a href="https://supabase.com" target="_blank">
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" height="42px"/>
+</a>
+
+<a href="https://figma.com" target="_blank">
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="42px"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height='42px'/>
+</a>
 
 <br><br>
 
