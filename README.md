@@ -97,22 +97,6 @@ I work on real educational and commercial products
 - REST APIs integration  
 - Clean Architecture  
 
-<br>
-
-### Github Stats
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
-</a>
-
-<br>
-
-### Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true"/>
-
-<br>
 
 ### Goals
 
