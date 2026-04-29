@@ -1,12 +1,11 @@
 ## Hey 👋, I'm Mohammed Abdallah
 
-<a href='YOUR_GITHUB'><img align='left' alt="github" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/github.svg" height='18px'/></a>
 <a href='https://www.instagram.com/thm7mad_/'><img align='left' alt="instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height='18px'/></a>
 
 <br/>
 <br/>
 
-Mobile App Developer using Flutter  
+Mobile App Developer Flutter  
 Front-End Developer  
 
 I build scalable mobile apps and clean user interfaces  
