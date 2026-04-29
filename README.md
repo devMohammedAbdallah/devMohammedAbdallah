@@ -1,27 +1,38 @@
 ## Hey 👋, I'm Mohammed Abdallah
 
+<a href='YOUR_GITHUB'><img align='left' alt="github" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/github.svg" height='18px'/></a>
 <a href='https://www.instagram.com/thm7mad_/'><img align='left' alt="instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height='18px'/></a>
 
 <br/>
 <br/>
 
-Mobile App Developer using Flutter.  
-I build real apps with focus on performance and UI.  
-I work on educational and commercial projects.
+Mobile App Developer using Flutter  
+Front-End Developer  
+
+I build scalable mobile apps and clean user interfaces  
+I work on real educational and commercial products  
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="320px"/>
 
 ### About Me
 
-- 🔭 I build mobile apps using Flutter  
-- 💼 Worked on educational and commercial apps  
-- 🎯 Focus on clean UI and smooth user experience  
-- 💬 Ask me about Flutter and UI design  
-- 📫 Reach me on Instagram  
+- 🔭 Build mobile apps using Flutter  
+- 💻 Build front-end UI with focus on usability  
+- ⚙️ Work with backend services using Supabase  
+- 🎯 Focus on performance and clean architecture  
+- 📱 Convert Figma designs into real apps  
+- 💬 Ask me about Flutter, UI, and APIs  
 
 <br>
 
-### Tech Stack
+### Languages
+
+- Dart  
+- Basic understanding of JavaScript  
+
+<br>
+
+### Frameworks and Tools
 
 <a href="https://flutter.dev" target="_blank">
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="42px"/>
@@ -31,8 +42,24 @@ I work on educational and commercial projects.
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" height="42px"/>
 </a>
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="42px"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="42px"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="42px"/>
+</a>
+
 <a href="https://supabase.com" target="_blank">
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" height="42px"/>
+</a>
+
+<a href="https://firebase.google.com/" target="_blank">
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" height="42px"/>
 </a>
 
 <a href="https://figma.com" target="_blank">
@@ -40,22 +67,57 @@ I work on educational and commercial projects.
 </a>
 
 <a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height='42px'/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="42px"/>
+</a>
+
+<a href="https://github.com" target="_blank">
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="42px"/>
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="42px"/>
 </a>
 
 <br><br>
 
-### Currently Learning
+### What I Can Do
 
-- State Management  
-- Backend Development  
-- Working with APIs  
+- Build full mobile apps using Flutter  
+- Design and implement UI from Figma  
+- Connect apps with APIs  
+- Manage data using Supabase  
+- Handle app navigation and state  
+- Work with Git and version control  
 
 <br>
 
+### Currently Learning
+
+- State Management (Provider, Riverpod)  
+- Backend fundamentals  
+- REST APIs integration  
+- Clean Architecture  
+
+<br>
+
+### Github Stats
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+</a>
+
+<br>
+
+### Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true"/>
+
+<br>
 
 ### Goals
 
-- Build strong real-world apps  
-- Start freelancing  
-- Improve backend skills  
+- Build strong production-level apps  
+- Start freelancing and get clients  
+- Improve backend and system design  
+- Grow as full-stack developer  
