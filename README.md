@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-Mobile App Developer Flutter  
+Mobile App Developer using Flutter  
 Front-End Developer  
 
 I build scalable mobile apps and clean user interfaces  
